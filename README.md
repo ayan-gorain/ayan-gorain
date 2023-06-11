@@ -73,12 +73,15 @@
 [![Ayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ayan-gorain&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<br>
+<!-- <br>
 <picture> 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayan-gorain/ayan-gorain/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayan-gorain/ayan-gorain/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayan-gorain/ayan-gorain/output/github-contribution-grid-snake.svg">
 </picture>
+ -->
+  
+  ![Snake animation](https://github.com/ayan-gorain/ayan-gorain/blob/output/github-contribution-snake.svg)
 
 
 # 📊 GitHub Streak:
