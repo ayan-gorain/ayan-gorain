@@ -24,7 +24,7 @@
 ![Ayan's GitHub stats]( https://github-readme-stats-stp2003.vercel.app/api?username=ayan-gorain&show_icons=true&theme=tokyonight&border_radius=7.6)
 
 
-<br><br>
+<br>
 
 ![Ayan's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayan-gorain&theme=tokyonight&border_radius=7.6)
 
