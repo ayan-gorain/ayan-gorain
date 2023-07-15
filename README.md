@@ -29,7 +29,7 @@
 
 
 <br/>
-
+<br>
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ayan-gorain&theme=onedark)](https://github.com/ayan-gorain/github-profile-trophy)
