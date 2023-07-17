@@ -17,7 +17,7 @@
 
 <img align="centre" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br>
+<br><br>
 
 
 ![Ayan's GitHub stats]( https://github-readme-stats-stp2003.vercel.app/api?username=ayan-gorain&show_icons=true&theme=tokyonight&border_radius=7.6)
