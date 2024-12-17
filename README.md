@@ -82,15 +82,15 @@
 </picture>
  -->
   
+
+
+
+
+
   ![snake gif](https://github.com/ayan-gorain/ayan-gorain/blob/output/github-snake-dark.svg)
 
 
-# 📊 GitHub Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notbrood&theme=radical)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=notbrood&theme=moonlight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=notbrood&theme=moonlight)
+  <br>
   
-
-
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
